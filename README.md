@@ -36,7 +36,7 @@ The dataset used in this project contains land-related features, including locat
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/land-rate-prediction.git
+   git clone https://github.com/your-username/Prediction-Land-Rates.git
 
 ## Contributing
 
